@@ -1,3 +1,7 @@
+stravamng
+=========
+
+A demo for the stravalib package
 
 Installation
 ============
