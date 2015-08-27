@@ -1,0 +1,10 @@
+[Application]
+# any unused port. You will listen here while you wait for authorization from strava
+port = 8888
+
+[StravaClient]
+# get these from https://www.strava.com/developers
+clientid = 
+clientsecret = 
+
+[UserAcct]
